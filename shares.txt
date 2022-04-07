@@ -1,0 +1,12 @@
+50;66;mohammad;1/oooo
+50;45;x2;9/lol
+8;100;mohammad;30/aadasda
+15;66;mkjk;2/knk
+110;5;x2;1/March
+48;30;adam;30/octobar
+35;60;Adam;1/jan
+89;20;DMC;16//
+325;500;Rateb;15/oaosdas
+90;15;x2;1/dec
+15;30;dmc;1/march
+100;20;x3;2/dec

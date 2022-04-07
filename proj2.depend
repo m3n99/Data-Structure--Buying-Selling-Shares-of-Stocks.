@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1588113828 source:d:\university\proj2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"proj2.h"
+
+1588113974 d:\university\proj2\proj2.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1588113828 source:d:\university\data structures\proj2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"proj2.h"
+
+1588349658 d:\university\data structures\proj2\proj2.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1588113828 source:d:\university\data structures\myproj\proj2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"proj2.h"
+
+1588349658 d:\university\data structures\myproj\proj2\proj2.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
